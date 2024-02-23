@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272652305488",
+    "project_id": "wapow-eb4af",
+    "storage_bucket": "wapow-eb4af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272652305488:android:2f134749628688fe7bfd55",
+        "android_client_info": {
+          "package_name": "com.example.wapow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272652305488-fc1jmng31oshiejc7n3dbp6gsbn0o3kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZISDK8mYrsWynXpg1Du5dZogVFK8prFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272652305488-fc1jmng31oshiejc7n3dbp6gsbn0o3kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
